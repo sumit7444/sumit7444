@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi 👋, I'm Sumit Prajapati
 
-<!--
-**sumit7444/sumit7444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Developer | AI & Cybersecurity Enthusiast | Researcher  
 
-Here are some ideas to get you started:
+🔗 Portfolio: https://sumit7444.github.io/web-profile/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science student interested in Artificial Intelligence and Cybersecurity
+- 🔍 Currently working on AI-driven Threat Detection in Social Media
+- 🌱 Learning Advanced Web Development, AI Models, and Security Systems
+- 💡 Passionate about building intelligent and secure digital solutions
+- 📫 Reach me at: sumit7444@gmail.com
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Programming**
+- Python
+- JavaScript
+- C++
+
+**Web Development**
+- HTML
+- CSS
+- React
+- Node.js
+
+**Tools & Platforms**
+- Git & GitHub
+- Vercel
+- VS Code
+- Linux
+
+**Areas of Interest**
+- Artificial Intelligence
+- Cybersecurity
+- Threat Detection Systems
+- Data Analysis
+
+---
+
+## 🚀 Projects
+
+### 🔹 Portfolio Website
+Personal portfolio showcasing my projects and skills.  
+🔗 https://sumit7444.github.io/web-profile/
+
+### 🔹 AI Threat Detection in Social Media
+Research-based project focused on identifying suspicious behavior and threats using machine learning.
+
+---
+
+## 📊 GitHub Stats
+
+![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit7444&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit7444&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 GitHub: https://github.com/sumit7444
+- 🌐 Portfolio: https://sumit7444.github.io/web-profile/
+- 📧 Email: sumit7444@gmail.com
+
+---
+
+⭐ *"Building intelligent systems that make the internet safer."*
