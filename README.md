@@ -1,4 +1,8 @@
-# Hi 👋, I'm Sumit Prajapati
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=32&pause=1000&color=752DF7&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Sumit+Prajapati;AI+Developer;Cybersecurity+Researcher;Web+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
 🚀 Passionate Developer | AI & Cybersecurity Enthusiast | Researcher  
 
