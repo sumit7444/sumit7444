@@ -48,14 +48,9 @@ Research-based project using Machine Learning to detect suspicious patterns and 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumit7444&show_icons=true&theme=radical" />
-</p>
+![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit7444&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit7444&layout=compact&theme=radical" />
-</p>
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit7444&layout=compact&theme=radical)
 
 ## 🌐 Connect With Me
 
